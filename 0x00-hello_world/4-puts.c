@@ -2,7 +2,7 @@
 
 /**
  * main -  write a program using puts instead of printf
- * returns: 0 when successful
+ * Returns: 0 when successful
  */
 int main(void)
 {
