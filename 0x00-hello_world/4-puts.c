@@ -1,7 +1,8 @@
 #include <stdio.h>
 
 /**
- * write a program using puts instead of printf
+ * main -  write a program using puts instead of printf
+ * returns: 0 when successful
  */
 int main(void)
 {
